@@ -1,0 +1,117 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+    #wrapper{
+        width: 80%;
+        background-color: purple;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        box-sizing: border-box;
+    }
+    #header{
+        background-color: gray;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+    #mainhead{
+        font-size: 40pt;
+        display: inline-block;
+        margin-right: 40%;
+        vertical-align: middle;
+    }
+    #subhead{
+        font-size: 18pt;
+        display: inline-block;
+        vertical-align: middle;
+    }
+    #profilepic{
+        width: 45%;
+        background-color: gray;
+        display: inline-block;
+        box-sizing: border-box;
+        padding: 5px;
+        margin: 10px;
+    }
+    #prof{
+        width: 100%;
+    }
+    #about{
+        width: 50%;
+        height: 364px;
+        display: inline-block;
+        background: linear-gradient(to right, white,rgb(233, 178, 178));
+        margin: 10px;
+        vertical-align: top;
+        box-sizing: border-box;
+        overflow: scroll;
+    }
+    .text{
+        padding: 10px;
+        margin-bottom: 50px;
+    }
+    .work{
+        width: 31%;
+        background: linear-gradient(to right, white,rgb(233, 178, 178));
+        display: inline-block;
+        box-sizing: border-box;
+        vertical-align: top;
+        margin: 10px;
+    }
+    .sub{
+        background: linear-gradient(lightgray, gray, gray, lightgray);
+        width: 100%;
+        display: inline-block;
+        font-size: 24pt;
+        color: white;
+        padding: 10px;
+        box-sizing: border-box;
+        vertical-align: top;
+    }
+    .workimage{
+        width:100%;
+        box-sizing:border-box;
+        vertical-align: top;
+    }
+    #contact{
+        width: 80%;
+        text-align: center;
+    }
+    .portfolio_button{
+        text-align: center;
+        text-decoration: none;
+        width: 45%;
+        background-color: green;
+        border-style: solid;
+        border-color: white;
+        border-width: 2px;
+        border-radius: 10px;
+        padding: 15px 10px;
+        position: relative;
+        margin: 5px 0px 20px 0px;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 10px 5px 5px dimgrey;
+    }
+    .tech{
+        background: linear-gradient(lightgray, gray, gray, lightgray);
+        width: 100%;
+        display: inline-block;
+        font-size: 16pt;
+        color: white;
+        padding: 10px;
+        box-sizing: border-box;
+        vertical-align: top;
+    }
+    .icon{
+        width: 15%;
+        margin: 5px;
+    }
+    .social{
+        display: inline-block;
+        box-sizing: border-box;
+    }
+    .socials{
+        width: 1%;
+        display: inline-block;
+        box-sizing: border-box;
+    }
